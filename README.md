@@ -25,4 +25,3 @@ CPP-Neural-Network/
 └── examples/
     ├── mnist_example.cpp            # Example program using the library for MNIST dataset
     └── xor_example.cpp              # Example program demonstrating XOR problem solved with neural network
-
