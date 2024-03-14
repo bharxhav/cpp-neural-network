@@ -6,6 +6,7 @@ To adapt to a fast paced environment, I'm going to implement a neural network fr
 
 ## Organization
 
+```md
 CPP-Neural-Network/
 │
 ├── include/
@@ -25,3 +26,4 @@ CPP-Neural-Network/
 └── examples/
     ├── mnist_example.cpp            # Example program using the library for MNIST dataset
     └── xor_example.cpp              # Example program demonstrating XOR problem solved with neural network
+```
